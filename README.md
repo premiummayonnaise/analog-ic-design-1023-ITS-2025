@@ -5,7 +5,7 @@ Analog IC Design portfolio (July–August 2025) – simulations and layouts usin
 This repository contains all assignments and projects from the **Analog IC Design: From Fundamentals to Tape-Out** course by the Microelectronics and Embedded Systems Lab of Institut Teknologi Sepuluh Nopember Surabaya (July–August 2025).  
 
 ## 🛠️ Tools & Technology
-- **PDK**: GF180MCU (Google-SkyWater Open-Source PDK)
+- **PDK**: GF180MCU (Google-SkyWater Open-Source PDK) and Sky130A
 - **EDA Tools**: xschem, ngspice, Magic VLSI
 - **Design Flow**: Schematic → Simulation → Layout → Parasitic Extraction → Post-Layout Verification
 
