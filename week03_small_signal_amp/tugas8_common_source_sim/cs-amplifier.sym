@@ -1,0 +1,24 @@
+v {xschem version=3.4.7 file_version=1.2}
+G {}
+K {type=subcircuit
+format="@name @pinlist @symname"
+template="name=x1"
+}
+V {}
+S {}
+E {}
+L 4 120 -200 140 -200 {}
+L 4 400 -160 420 -160 {}
+L 7 400 -200 420 -200 {}
+L 7 400 -180 420 -180 {}
+B 5 117.5 -202.5 122.5 -197.5 {name=VIN dir=in}
+B 5 417.5 -202.5 422.5 -197.5 {name=VDD dir=inout}
+B 5 417.5 -182.5 422.5 -177.5 {name=VSS dir=inout}
+B 5 417.5 -162.5 422.5 -157.5 {name=VOUT dir=out}
+P 4 5 400 -210 140 -210 140 -150 400 -150 400 -210 {}
+T {nmos-cs-amplifier} 198 -186 0 0 0.3 0.3 {}
+T {@name} 405 -222 0 0 0.2 0.2 {}
+T {VIN} 145 -204 0 0 0.2 0.2 {}
+T {VDD} 395 -204 0 1 0.2 0.2 {}
+T {VSS} 395 -184 0 1 0.2 0.2 {}
+T {VOUT} 395 -164 0 1 0.2 0.2 {}
