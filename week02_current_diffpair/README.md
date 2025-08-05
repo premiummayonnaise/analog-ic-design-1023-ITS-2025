@@ -4,7 +4,6 @@ During the second week, the course will be mainly focusing on the **implementati
 
 ---
 
-## 📌 Weekly Focus
 For the assignments of this week, the focus is on the **current mirrors characteristics** and key parameters such as:
 
 - **W/L ratio**
@@ -16,5 +15,4 @@ For the assignments of this week, the focus is on the **current mirrors characte
 
 ---
 
-## 🔍 Sneak Peek
 After that, there will be a little glimpse on **differential pairs**, which is also another crucial block in analog IC design.
